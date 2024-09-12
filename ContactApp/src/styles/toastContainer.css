@@ -1,0 +1,99 @@
+/* Custom Toast Container Styling */
+.Toastify__toast-container {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    z-index: 9999;
+  }
+  
+  /* Custom Toast Styling */
+  .Toastify__toast {
+    border-radius: 8px; /* Rounded corners */
+    padding: 16px; /* Add padding */
+    color: #fff; /* Text color */
+    text-align: center; /* Center align text */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  /* Success Toast Styling */
+  .Toastify__toast--success {
+    background-color: #4caf50; /* Green background */
+  }
+  
+  /* Bounce Animation */
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+  
+  /* Apply Bounce Animation to Toast */
+  .Toastify__toast--success {
+    animation: bounce 1s ease;
+  }
+  
+  /* Custom Progress Bar */
+  .Toastify__progress-bar {
+    background: #fff; /* Progress bar color */
+  }
+  
+  /* Positioning and Animation */
+  .Toastify__toast-container--top-right {
+    top: 20px;
+    right: 20px;
+  }
+/* Custom Toast Container Styling */
+.Toastify__toast-container {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    z-index: 9999;
+  }
+  
+  /* Custom Toast Styling */
+  .Toastify__toast {
+    border-radius: 8px; /* Rounded corners */
+    padding: 16px; /* Add padding */
+    color: #fff; /* Text color */
+    text-align: center; /* Center align text */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  /* Success Toast Styling */
+  .Toastify__toast--success {
+    background-color: #4caf50; /* Green background */
+  }
+  
+  /* Bounce Animation */
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+  
+  /* Apply Bounce Animation to Toast */
+  .Toastify__toast--success {
+    animation: bounce 1s ease;
+  }
+  
+  /* Custom Progress Bar */
+  .Toastify__progress-bar {
+    background: #fff; /* Progress bar color */
+  }
+  
+  /* Positioning and Animation */
+  .Toastify__toast-container--top-right {
+    top: 20px;
+    right: 20px;
+  }
+    

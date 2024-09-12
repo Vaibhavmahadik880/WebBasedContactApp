@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\models\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\models\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\helpers\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\helpers\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\dbcontexts\\contactscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\dbcontexts\\contactscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaibhav.mahadik\\AppData\\Local\\SourceServer\\7557f6c85cc6a47054407ffc9b827ae14542df475198823d0c957dc50b118e34\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\entitties\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\entitties\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\models\\updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\models\\updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\models\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\models\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\models\\patchcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\models\\patchcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\migrations\\20240906042347_seeddata1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\migrations\\20240906042347_seeddata1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaibhav.mahadik\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaibhav.mahadik\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\migrations\\20240902060038_seedinitialcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\migrations\\20240902060038_seedinitialcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\migrations\\20240902055916_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\migrations\\20240902055916_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\migrations\\20240903114019_seedinfo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\migrations\\20240903114019_seedinfo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\migrations\\20240903042003_seedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\migrations\\20240903042003_seedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\migrations\\20240903041743_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\migrations\\20240903041743_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|c:\\users\\vaibhav.mahadik\\desktop\\contactapp\\contactapi\\contactapi\\migrations\\20240904070811_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E1DF1C-89EB-46DD-8087-F165CB6E13A0}|ContactAPI\\ContactAPI.csproj|solutionrelative:contactapi\\migrations\\20240904070811_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:983847951:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactAPI\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:11:01.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Models\\ContactDto.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Models\\ContactDto.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Models\\ContactDto.cs",
+              "RelativeToolTip": "ContactAPI\\Models\\ContactDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:18:25.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Services\\IContactService.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Services\\IContactService.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Services\\IContactService.cs",
+              "RelativeToolTip": "ContactAPI\\Services\\IContactService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:05:28.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ContactAPI\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:17:08.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactsContext.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\DbContexts\\ContactsContext.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\DbContexts\\ContactsContext.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\DbContexts\\ContactsContext.cs",
+              "RelativeToolTip": "ContactAPI\\DbContexts\\ContactsContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAwBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:45:55.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Entitties\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Entitties\\Contact.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Entitties\\Contact.cs",
+              "RelativeToolTip": "ContactAPI\\Entitties\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:43:12.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Services\\ContactService.cs",
+              "RelativeToolTip": "ContactAPI\\Services\\ContactService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:07:08.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Helpers\\PagedResult.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Helpers\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Helpers\\PagedResult.cs",
+              "RelativeToolTip": "ContactAPI\\Helpers\\PagedResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:41:05.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateContact.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Models\\UpdateContact.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Models\\UpdateContact.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Models\\UpdateContact.cs",
+              "RelativeToolTip": "ContactAPI\\Models\\UpdateContact.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:19:49.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\AppData\\Local\\SourceServer\\7557f6c85cc6a47054407ffc9b827ae14542df475198823d0c957dc50b118e34\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\7557f6c85cc6a47054407ffc9b827ae14542df475198823d0c957dc50b118e34\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\AppData\\Local\\SourceServer\\7557f6c85cc6a47054407ffc9b827ae14542df475198823d0c957dc50b118e34\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\7557f6c85cc6a47054407ffc9b827ae14542df475198823d0c957dc50b118e34\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAmwE4BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:45:51.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Models\\CreateContactDto.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Models\\CreateContactDto.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Models\\CreateContactDto.cs",
+              "RelativeToolTip": "ContactAPI\\Models\\CreateContactDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:45:37.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatchContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Models\\PatchContactDto.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Models\\PatchContactDto.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Models\\PatchContactDto.cs",
+              "RelativeToolTip": "ContactAPI\\Models\\PatchContactDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:20:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Monitor.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\123ac3230126088b70e2593e26cb6a111b8aa3dba32d5673adf60d86a1b04d25\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAQwLYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:57:08.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240906042347_seedData1.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240906042347_seedData1.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Migrations\\20240906042347_seedData1.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240906042347_seedData1.cs",
+              "RelativeToolTip": "ContactAPI\\Migrations\\20240906042347_seedData1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:23:47.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Program.cs",
+              "RelativeToolTip": "ContactAPI\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:51:07.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240904070811_seedData.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240904070811_seedData.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Migrations\\20240904070811_seedData.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240904070811_seedData.cs",
+              "RelativeToolTip": "ContactAPI\\Migrations\\20240904070811_seedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:08:11.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240903114019_seedInfo1.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240903114019_seedInfo1.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Migrations\\20240903114019_seedInfo1.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240903114019_seedInfo1.cs",
+              "RelativeToolTip": "ContactAPI\\Migrations\\20240903114019_seedInfo1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:40:19.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240903042003_seedInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240903042003_seedInfo.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Migrations\\20240903042003_seedInfo.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240903042003_seedInfo.cs",
+              "RelativeToolTip": "ContactAPI\\Migrations\\20240903042003_seedInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:20:04.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240903041743_seed.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240903041743_seed.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Migrations\\20240903041743_seed.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240903041743_seed.cs",
+              "RelativeToolTip": "ContactAPI\\Migrations\\20240903041743_seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:17:43.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ContactAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\appsettings.Development.json",
+              "RelativeToolTip": "ContactAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T11:31:38.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\appsettings.json",
+              "RelativeToolTip": "ContactAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T05:47:01.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs [Read Only]",
+              "ViewState": "AQIAAFcAAAAAAAAAAIAwwGEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:48:53.184Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240902060038_SeedInitialContacts.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240902060038_SeedInitialContacts.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Migrations\\20240902060038_SeedInitialContacts.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240902060038_SeedInitialContacts.cs",
+              "RelativeToolTip": "ContactAPI\\Migrations\\20240902060038_SeedInitialContacts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:00:38.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240902055916_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240902055916_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContactAPI\\Migrations\\20240902055916_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\vaibhav.mahadik\\Desktop\\ContactApp\\ContactAPI\\ContactAPI\\Migrations\\20240902055916_InitialCreate.cs",
+              "RelativeToolTip": "ContactAPI\\Migrations\\20240902055916_InitialCreate.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:59:17.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

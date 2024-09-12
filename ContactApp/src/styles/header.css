@@ -1,0 +1,24 @@
+
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-bottom: 2px solid #ccc;
+  position: sticky;
+  top:0;
+  z-index: 1; 
+}
+
+.header-container h1 {
+  font-size: 40px;
+  color: #333;
+  display: flex;
+  align-items: center; /* To align the icon and text vertically */
+}
+
+.header-container button{
+  font-size: 25px;
+}
