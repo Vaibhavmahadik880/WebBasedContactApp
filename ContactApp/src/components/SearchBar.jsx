@@ -9,12 +9,12 @@ import debounce from "lodash/debounce";
 const SearchBar = () => {
   const dispatch = useDispatch();
   const { totalPages, pageSize } = useSelector((state) => state.contacts);
-  const count = totalPages * pageSize;
+  const count = (totalPages - 1) * pageSize;
 
   const handleSearchChange = useCallback(
     debounce((value) => {
       dispatch(setSearchTerm(value));
-    }, 300), 
+    }, 300),
     [dispatch]
   );
 
